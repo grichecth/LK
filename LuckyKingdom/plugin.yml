@@ -1,0 +1,10 @@
+name: GrichBlocks
+main: com.grichecth.blocks.Main
+version: 2
+description: GrichBlocks
+author: Grichecth
+depend: [Spout]
+commands:
+   gbreload:
+      description: Reload Blocks
+      usage: /<command>
